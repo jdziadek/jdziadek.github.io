@@ -1,10 +1,10 @@
 # Dead Fuse · Loboo
 
-Publiczna strona informacyjna gry Dead Fuse, kontakt z wydawcą, polityka prywatności i app-ads.txt.
+The official information website for Dead Fuse, with publisher contact details, the privacy policy and app-ads.txt.
 
-Adres: https://jdziadek.github.io/
+Website: https://jdziadek.github.io/
 
-GitHub Pages publikuje statyczne pliki z katalogu głównego gałęzi `codex/dead-fuse-pages`.
-Nie jest wymagany proces kompilacji. Plik `.nojekyll` wyłącza przetwarzanie Jekyll.
+GitHub Pages publishes the static files from the root of the `codex/dead-fuse-pages` branch.
+No build step is needed. `.nojekyll` disables Jekyll processing.
 
-Kod gry jest utrzymywany osobno. To repozytorium zawiera wyłącznie publiczne pliki strony.
+This repository contains only the public website files. Game source is maintained separately.
